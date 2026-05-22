@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.wav
+*.mp3
+*.spec
+build/
+dist/
+.env
+venv/
+.venv/
+.idea/

@@ -1,0 +1,8 @@
+edge-tts>=6.1.0
+TTS>=0.22.0
+torch>=2.0.0
+pydub>=0.25.1
+pygame>=2.5.0
+playsound==1.2.2
+simpleaudio>=1.0.4
+tkinterdnd2>=0.3.0
